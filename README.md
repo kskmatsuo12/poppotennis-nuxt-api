@@ -1,6 +1,6 @@
-# poppotennis-nuxt-api
+# Laravel8（sanctumAPItoken）とNuxt（auth-module)で認証
 
-## この記事でやった内容です
+## 記事URL
 
 https://poppotennis.com/posts/laravel-nuxt-api
 
